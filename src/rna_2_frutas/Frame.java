@@ -254,7 +254,7 @@ public class Frame extends javax.swing.JFrame {
     }//GEN-LAST:event_jMenuItem1ActionPerformed
 
     private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem2ActionPerformed
-        JOptionPane.showMessageDialog(jMenuItem2, "Autor: Erick Clair.\nCódigo fuente: https://github.com/ErickCD/IA_U2_Practica01_Erick.git", "Datos del usuario", JOptionPane.INFORMATION_MESSAGE);
+        JOptionPane.showMessageDialog(jMenuItem2, "Autor: Erick Clair.\nCódigo fuente: https://github.com/ErickCD/RNA", "Datos del usuario", JOptionPane.INFORMATION_MESSAGE);
     }//GEN-LAST:event_jMenuItem2ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
